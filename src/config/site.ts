@@ -9,7 +9,7 @@ export const siteConfig = {
   description:
     "Carefully curated, inspected and sanitized ride-on toys for kids aged 3–12. Order on WhatsApp.",
   // TODO: Replace with your WhatsApp Business number (digits only, with country code).
-  whatsappNumber: "+918129393700",
+  whatsappNumber: "918129393700",
   currency: "₹",
   locale: "en-IN",
   url: "https://tinywheels.example",
